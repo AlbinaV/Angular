@@ -1,0 +1,51 @@
+﻿h1 {
+    font-family: "Bookman Old Style";
+	font-size: 25px;
+	line-height: 55px;
+	margin-bottom: 25px;
+    text-align: center;
+    color:#0094ff;
+    
+
+}
+
+h2 {
+   font-family: Tahoma;
+	font-size: 20px;
+    color:#0094ff;
+	font-weight: lighter;
+      font-weight:bold;
+}
+
+h3 {
+   font-family: Tahoma;
+	font-size: 15px;
+    color:#0094ff;
+	font-weight: lighter;
+      font-weight:normal;
+}
+
+body{
+	background: #ede9d6;
+     font-family: "Tahoma";
+      margin-right:70px;
+   
+}
+
+ul {
+    margin-right:70px;
+    font-weight:bold;
+   
+}   
+ 
+ 
+.arhiv{
+    
+      font-weight:normal;
+}     
+.form{
+      font-weight:normal;
+}    
+.priority{
+    font-weight:normal;
+}          
